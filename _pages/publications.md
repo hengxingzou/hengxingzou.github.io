@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+All **brief summaries** can be found under the [Research](/research/) tab.
+
 ## Preprints
 
 **Zou, H.-X.**, and V.H.W. Rudolf. 2022. Bridging theory and experiments of priority effects. *bioRXiv*. [[paper]](https://doi.org/10.1101/2022.12.05.519211) [code and data in curation] [[brief summary]](/research/#bridging-theory-and-experiments-of-priority-effects---theme-1)
