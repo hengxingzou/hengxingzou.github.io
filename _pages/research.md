@@ -8,6 +8,8 @@ toc_icon: ""
 toc_sticky: true
 ---
 
+{% include toc %}
+
 One of the overarching theme of ecology is studying how biotic interactions change under different environmental factors, and how these changes affect community structure and biodiversity. Using a combination of theoretical models, experiments, and large monitoring datasets, I approach this overarching theme from two aspects:
 
 **1. How does the timing of species interactions affect the community structure and biodiversity?**
