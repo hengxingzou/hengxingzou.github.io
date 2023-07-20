@@ -10,14 +10,12 @@ redirect_from:
 
 ***
 
-
-
-{% include figure image_path="..images/me.jpg" caption="Cabañas Colibrí Tayutic, Costa Rica, May 2023" %}
-
 <figure>
   <img src="../images/me.jpg">
   <figcaption>Cabañas Colibrí Tayutic, Costa Rica, May 2023</figcaption>
 </figure>
+
+![me](../images/me.jpg)
 
 I am a PhD candidate in [Program of Ecology and Evolutionary Biology](https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program) at the Department of BioSciences, Rice University. I joined Dr. Volker Rudolf's [lab](http://volkerrudolf.weebly.com) in Fall 2019. My current research focuses on how large-scale environmental factors shape biotic interactions and community structure. Read more about my past and current projects [here](/research/).
 
