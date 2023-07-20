@@ -10,7 +10,7 @@ redirect_from:
 
 ***
 
-![me](../images/HXZ.jpg)
+![me](../images/me.jpg)
 
 I am a PhD candidate in [Program of Ecology and Evolutionary Biology](https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program) at the Department of BioSciences, Rice University. I joined Dr. Volker Rudolf's [lab](http://volkerrudolf.weebly.com) in Fall 2019. My current research focuses on how large-scale environmental factors shape biotic interactions and community structure. Read more about my past and current projects [here](/research/).
 
