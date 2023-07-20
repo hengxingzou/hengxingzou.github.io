@@ -19,7 +19,7 @@ I am a PhD candidate in [Program of Ecology and Evolutionary Biology](https://bi
 
 Before coming to Rice, I graduated from the University of Chicago, where I worked with Drs. [Cathy Pfister](https://pfisterlab.uchicago.edu/) and [Alison Anastasio](https://environmentalstudies.uchicago.edu/people/alison-anastasio) on characterizing plant communities on urban contaminated soil.  
 
-Click [here](files/CV_HengxingZou.pdf) for my CV.
+Click [here](/files/CV_HengxingZou.pdf) for my CV.
 
 Before coming to the US for college, I spent my first 18 years in Beijing, China.
 
