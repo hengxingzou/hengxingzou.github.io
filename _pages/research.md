@@ -10,6 +10,8 @@ toc_sticky: true
 
 ## RESEARCH THEME
 
+One of the overarching theme of ecology is studying how biotic interactions change under different environmental factors, and how these changes affect community structure and biodiversity. I tackle this 
+
 My research combines theoretical and experimental approaches to investigate how the timing of species arrival affects community structure. The temporal sequence of species arrival often affects species interactions within a community, contributing to priority effects. For my dissertation, I will first explore the concept of priority effects by reviewing the empirical mechanisms that could generate them. I will then design simulations and experiments to investigate the long-term consequences of priority effects arising from different mechanisms across three different scales, temporal, spatial, and interaction complexity. 
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=SJUUl-0AAAAJ&hl=en) | [Downloadable CV](../documents/CV_HengxingZou.pdf)
