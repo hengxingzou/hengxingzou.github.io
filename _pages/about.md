@@ -16,8 +16,8 @@ I am a PhD student in [Program of Ecology and Evolutionary Biology](https://bios
 
 Before coming to Rice, I graduated from the University of Chicago, where I worked with Drs. [Cathy Pfister](https://pfisterlab.uchicago.edu/) and [Alison Anastasio](https://environmentalstudies.uchicago.edu/people/alison-anastasio) on characterizing plant communities on urban contaminated soil.  
 
+Click [here](files/CV_HengxingZou.pdf) for my CV.
+
+Before coming to the US for college, I spent my first 18 years in Beijing, China.
+
 Besides my research interests, I am into street photography, visual art, anime, and Japanese literature. While I am not a typical outdoor person, I enjoy birding, skateboarding and occasional hiking. 
-
-For academic and non-academic links, please go to [Links](/links/). 
-
-You can reach me at: hengxingzou [at] rice [dot] edu.
