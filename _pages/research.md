@@ -8,14 +8,24 @@ toc_icon: ""
 toc_sticky: true
 ---
 
-One of the overarching theme of ecology is studying how biotic interactions change under different environmental factors, and how these changes affect community structure and biodiversity. Using a combination of theoretical models, experiments, and large monitoring data sets, I approach this overarching theme from two aspects:
+One of the overarching theme of ecology is studying how biotic interactions change under different environmental factors, and how these changes affect community structure and biodiversity. Using a combination of theoretical models, experiments, and large monitoring datasets, I approach this overarching theme from two aspects:
 
 **1. How does the timing of species interactions affect the community structure and biodiversity?**
 **2. How does changes in spatial and temporal overlaps between species affect their interactions?**
 
+If you are interested in any of the following projects, especially the ongoing ones, or would like a copy of the paper, feel free to [contact me](mailto:hz70@rice.edu)!
+
+### Novel Range Shifts in Birds of North America - Theme 2
+
+Climate change have induced consistent and directional shifts of species distributions. Despite numerous documented examples, few studies focus on the subsequent shifts in species interactions and their community-level consequences. With [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh) and [Lydia Beaudrot](https://lydiabeaudrot.weebly.com/), we are in the process of using large monitoring datasets of North American Birds to evaluate how novel spatial overlaps between species affect local communities. 
+
+**This is hopefully the start of many exciting projects on Theme 2  -- stay tuned!**
+
 ### Time-dependence of Plant-microbe Interactions - Theme 1
 
-Plant-microbe interactions are ubiquitous and fundamental to plant community structure, yet theory and experiments often focus on plants, and treat microbes as either fixed environments or static snapshots of time. With Jiaqi Tan, we design experiments using duckweeds (family *Lemna) and their 
+Plant-microbe interactions are ubiquitous and fundamental to plant community structure, yet theory and experiments often focus on plants, and treat microbes as either fixed environments or static snapshots of time. With [Jiaqi Tan](https://jiaqitan.wixsite.com/mysite), we design experiments using duckweeds (subfamily *Lemnoideae*) and their naturally associated microbiomes to study how the length of interaction between the resident plant and its microbes affect the microbiome composition and its feedback on the future colonizing plant.
+
+**Ongoing Project -- stay tuned!**
 
 ### Time-dependence of Higher-order Interactions - Theme 1
 
