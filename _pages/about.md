@@ -15,7 +15,7 @@ redirect_from:
 {% include figure image_path="..images/me.jpg" caption="Cabañas Colibrí Tayutic, Costa Rica, May 2023" %}
 
 <figure>
-  <img src="..images/me.jpg">
+  <img src="../images/me.jpg">
   <figcaption>Cabañas Colibrí Tayutic, Costa Rica, May 2023</figcaption>
 </figure>
 
