@@ -10,7 +10,7 @@ redirect_from:
 
 ***
 
-![me](../images/me.jpg)
+
 
 {% include figure image_path="..images/me.jpg" caption="Cabañas Colibrí Tayutic, Costa Rica, May 2023" %}
 
