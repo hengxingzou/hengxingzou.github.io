@@ -2,13 +2,11 @@
 title: Research
 layout: single
 permalink: /research/
-toc: false
+toc: true
 toc_label: ""
 toc_icon: ""
 toc_sticky: true
 ---
-
-{% include toc %}
 
 One of the overarching theme of ecology is studying how biotic interactions change under different environmental factors, and how these changes affect community structure and biodiversity. Using a combination of theoretical models, experiments, and large monitoring datasets, I approach this overarching theme from two aspects:
 
