@@ -16,13 +16,13 @@ One of the overarching theme of ecology is studying how biotic interactions chan
 
 If you are interested in any of the following projects, especially the ongoing ones, or would like a copy of the paper, feel free to [contact me](mailto:hz70@rice.edu)!
 
-<span style="color: #0eb0c9;">## Novel Range Shifts in Birds of North America - Theme 2<span>
+##<span style="color: #0eb0c9;">Novel Range Shifts in Birds of North America - Theme 2<span>
 
 Climate change have induced consistent and directional shifts of species distributions. Despite numerous documented examples, few studies focus on the subsequent shifts in species interactions and their community-level consequences. With [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh) and [Lydia Beaudrot](https://lydiabeaudrot.weebly.com/), we are in the process of using large monitoring datasets of North American Birds to evaluate how novel spatial overlaps between species affect local communities. 
 
 **This is hopefully the start of many exciting projects on Theme 2  -- stay tuned!**
 
-<span style="color: #a61b29;">## Time-dependence of Plant-microbe Interactions - Theme 1<span>
+##<span style="color: #a61b29;">Time-dependence of Plant-microbe Interactions - Theme 1<span>
 
 ![project_duckweed](/images/project_duckweed.jpg)
 
@@ -30,7 +30,7 @@ Plant-microbe interactions are ubiquitous and fundamental to plant community str
 
 **Ongoing Project -- stay tuned!**
 
-<span style="color: #a61b29;">## Time-dependence of Higher-order Interactions - Theme 1<span>
+##<span style="color: #a61b29;">Time-dependence of Higher-order Interactions - Theme 1<span>
 
 ![project_tdmi](/images/project_tdmi.png)
 
@@ -38,7 +38,7 @@ Complex communities in nature often contain interactions beyond pairwise (i.e., 
 
 **Ongoing Project -- stay tuned!**
 
-<span style="color: #a61b29;">## Bridging Theory and Experiments of Priority Effects - Theme 1<span>
+##<span style="color: #a61b29;">Bridging Theory and Experiments of Priority Effects - Theme 1<span>
 
 ![project_review](/images/project_rev.png)
 
@@ -46,7 +46,7 @@ Despite a long history and recent advances, current body of theory only describe
 
 Zou, H.-X., and V.H.W. Rudolf. 2022. Bridging theory and experiments of priority effects. *bioRXiv*. [[paper]](https://doi.org/10.1101/2022.12.05.519211) [code and data in curation]
 
-<span style="color: #a61b29;">## Priority Effects and Dispersal-Diversity Relationships - Theme 1<span>
+##<span style="color: #a61b29;">Priority Effects and Dispersal-Diversity Relationships - Theme 1<span>
 
 ![project_metacommunity](/images/project_me.png)
 
@@ -54,7 +54,7 @@ Priority effects are ubiquitous in nature and determine local community structur
 
 Zou, H.-X., and V.H.W. Rudolf. 2023. Priority effects determine how dispersal affects biodiversity in seasonal metacommunities. *The American Naturalist*. [[paper]](https://doi.org/10.1086/725039) [[code]](https://github.com/hengxingzou/Zou2023AmNat) [[data]](https://doi.org/10.5061/dryad.sbcc2frb4)
 
-<span style="color: #a61b29;">## Effect of Arrival Time and Number of Generations per Season on Coexistence - Theme 1<span>
+##<span style="color: #a61b29;">Effect of Arrival Time and Number of Generations per Season on Coexistence - Theme 1<span>
 
 ![project_priorityeffects](/images/project_pe.png)
 
