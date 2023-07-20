@@ -11,7 +11,7 @@ redirect_from:
 ***
 
 <figure>
-  <img src="../images/me.jpg">
+  <img src="/images/me.jpg">
   <figcaption>Cabañas Colibrí Tayutic, Costa Rica, May 2023</figcaption>
 </figure>
 
