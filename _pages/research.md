@@ -2,7 +2,7 @@
 title: Research
 layout: single
 permalink: /research/
-toc: true
+toc: false
 toc_label: ""
 toc_icon: ""
 toc_sticky: true
