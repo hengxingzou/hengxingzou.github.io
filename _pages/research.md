@@ -10,9 +10,9 @@ toc_sticky: true
 
 One of the overarching theme of ecology is studying how biotic interactions change under different environmental factors, and how these changes affect community structure and biodiversity. Using a combination of theoretical models, experiments, and large monitoring datasets, I approach this overarching theme from two aspects:
 
-<span style="color: #a61b29;">**1. How does the timing of species interactions affect the community structure and biodiversity?**</span>
+**1. How does the timing of species interactions affect the community structure and biodiversity?**
 
-<span style="color: #0eb0c9;">**2. How does changes in spatial and temporal overlaps between species affect their interactions?**</span>
+**2. How does changes in spatial and temporal overlaps between species affect their interactions?**
 
 If you are interested in any of the following projects, especially the ongoing ones, or would like a copy of the paper, feel free to [contact me](mailto:hz70@rice.edu)!
 
