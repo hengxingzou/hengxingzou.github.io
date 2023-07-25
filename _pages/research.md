@@ -25,7 +25,7 @@ Climate change have induced consistent and directional shifts of species distrib
 **This is hopefully the start of many exciting projects on Theme 2  -- stay tuned!**
 
 <span style="color: #a61b29;">
-Time-dependence of Plant-microbe Interactions - Theme 1
+## Time-dependence of Plant-microbe Interactions - Theme 1
 <span>
 
 ![project_duckweed](/images/project_duckweed.jpg)
