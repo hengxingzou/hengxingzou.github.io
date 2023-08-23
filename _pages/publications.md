@@ -15,7 +15,7 @@ All **brief summaries** can be found under the [Research](/research/) tab.
 
 ## Accepted
 
-**Zou, H.-X.**, and V.H.W. Rudolf. 2023. Priority effects determine how dispersal affects biodiversity in seasonal metacommunities. *The American Naturalist*. [[paper]](https://doi.org/10.1086/725039) [[code]](https://github.com/hengxingzou/Zou2023AmNat) [[data]](https://doi.org/10.5061/dryad.sbcc2frb4) [[brief summary]](/research/#priority-effects-and-dispersal-diversity-relationships---theme-1)
+**Zou, H.-X.**, and V.H.W. Rudolf. 2023. Priority effects determine how dispersal affects biodiversity in seasonal metacommunities. *The American Naturalist*. [[paper]](/files/Zou2023_AmNat.pdf) [[code]](https://github.com/hengxingzou/Zou2023AmNat) [[data]](https://doi.org/10.5061/dryad.sbcc2frb4) [[brief summary]](/research/#priority-effects-and-dispersal-diversity-relationships---theme-1)
 
 Liu, Junyan, **H.‐X. Zou**, B. Bachelot, T. Dong, Z. Zhu, Y. Liao, A. Plenković‐Moraj, and Y. Wu. 2021. Predicting the responses of subalpine forest landscape dynamics to climate change on the eastern Tibetan Plateau. *Global Change Biology 27, no. 18 (2021): 4352-4366*. [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15727)
 
