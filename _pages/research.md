@@ -52,7 +52,7 @@ Complex communities in nature often contain interactions beyond pairwise (i.e., 
 
 Despite a long history and recent advances, current body of theory only describes priority effects driven by positive frequency dependence, while many empirical studies identify biological mechanisms beyond this mechanism. To bridge this gap, we categorize priority effects as frequency-dependent or trait-dependent based on their underlying biological mechanisms. The two categories represent different biological mechanisms of priority effects that can have distinctive local and regional consequences that are still largely unexplored. Our framework encourages future studies to explicitly consider the biological mechanisms and the time scales at which they operate when studying and modeling priority effects.
 
-Zou, H.-X., and V.H.W. Rudolf. 2022. Bridging theory and experiments of priority effects. *bioRXiv*. [[paper]](https://doi.org/10.1101/2022.12.05.519211) [code and data in curation]
+**Zou, H.-X.**, and V.H.W. Rudolf. 2023. Bridging theory and experiments of priority effects. Accepted, *Trends in Ecology and Evolution*. [[preprint]](https://doi.org/10.1101/2022.12.05.519211) [[code and data]](https://github.com/hengxingzou/Zou2022bioRXiv)
 
 <span style="color: #a61b29;">
 ## Priority Effects and Dispersal-Diversity Relationships - Theme 1
