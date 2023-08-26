@@ -9,11 +9,11 @@ All **brief summaries** can be found under the [Research](/research/) tab.
 
 ## Preprints
 
-**Zou, H.-X.**, and V.H.W. Rudolf. 2022. Bridging theory and experiments of priority effects. *bioRXiv*. [[paper]](https://doi.org/10.1101/2022.12.05.519211) [code and data in curation] [[brief summary]](/research/#bridging-theory-and-experiments-of-priority-effects---theme-1)
-
 **Zou, H.-X.**, S.J. Schreiber, and V.H.W. Rudolf. 2020. Stage-mediated priority effects and species life history shape long-term competition dynamics. *bioRxiv*. [[preprint]](https://www.biorxiv.org/content/10.1101/2020.08.14.251926v2.abstract) [[code and data]](https://github.com/hengxingzou/Zou2020bioRXiv) [[brief summary]](/research/#effect-of-arrival-time-and-number-of-generations-per-season-on-coexistence---theme-1)
 
 ## Accepted
+
+**Zou, H.-X.**, and V.H.W. Rudolf. 2023. Bridging theory and experiments of priority effects. Accepted, *Trends in Ecology and Evolution*. [[preprint]](https://doi.org/10.1101/2022.12.05.519211) [[code and data]](https://github.com/hengxingzou/Zou2022bioRXiv) [[brief summary]](/research/#bridging-theory-and-experiments-of-priority-effects---theme-1)
 
 **Zou, H.-X.**, and V.H.W. Rudolf. 2023. Priority effects determine how dispersal affects biodiversity in seasonal metacommunities. *The American Naturalist*. [[paper]](/files/Zou2023_AmNat.pdf) [[code]](https://github.com/hengxingzou/Zou2023AmNat) [[data]](https://doi.org/10.5061/dryad.sbcc2frb4) [[brief summary]](/research/#priority-effects-and-dispersal-diversity-relationships---theme-1)
 
