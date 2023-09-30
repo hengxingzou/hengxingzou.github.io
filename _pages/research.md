@@ -52,7 +52,7 @@ Complex communities in nature often contain interactions beyond pairwise (i.e., 
 
 Despite a long history and recent advances, current body of theory only describes priority effects driven by positive frequency dependence, while many empirical studies identify biological mechanisms beyond this mechanism. To bridge this gap, we categorize priority effects as frequency-dependent or trait-dependent based on their underlying biological mechanisms. The two categories represent different biological mechanisms of priority effects that can have distinctive local and regional consequences that are still largely unexplored. Our framework encourages future studies to explicitly consider the biological mechanisms and the time scales at which they operate when studying and modeling priority effects.
 
-**Zou, H.-X.**, and V.H.W. Rudolf. 2023. Bridging theory and experiments of priority effects. Accepted, *Trends in Ecology and Evolution*. [[preprint]](https://doi.org/10.1101/2022.12.05.519211) [[code and data]](https://github.com/hengxingzou/Zou2022bioRXiv)
+Zou, H.-X., and V.H.W. Rudolf. 2023. Bridging theory and experiments of priority effects. In press, *Trends in Ecology and Evolution*. [[paper]](/files/Zou2023_TrendsEcolEvol.pdf) [[supplemental information]](https://www.sciencedirect.com/science/article/pii/S0169534723002124?via%3Dihub#s0070:~:text=files%20included%20with-,this,-article) [[code and data]](https://github.com/hengxingzou/Zou2023TrendsEcolEvol)
 
 <span style="color: #a61b29;">
 ## Priority Effects and Dispersal-Diversity Relationships - Theme 1
@@ -76,7 +76,7 @@ Experiments with *Tribolium* flour beetles are ongoing to test our findings.
 
 **Preprint**
 
-Zou, H.-X., S.J. Schreiber, and V.H.W. Rudolf. 2020. Stage-mediated priority effects and species life history shape long-term competition dynamics. *bioRxiv*. [[preprint]](https://www.biorxiv.org/content/10.1101/2020.08.14.251926v2.abstract) [[code and data]](https://github.com/hengxingzou/Zou2020bioRXiv)
+Zou, H.-X., S.J. Schreiber, and V.H.W. Rudolf. 2023. Stage-mediated priority effects and species life history shape long-term competition dynamics. In press, *Proceedings of Royal Society B: Biological Sciences*. [[paper]](/files/Zou2023_ProcRSocB.pdf) [[code]](https://github.com/hengxingzou/Zou2023ProcRSocB)
 
 ## Primary Succession of Plant Community on Industrial Waste
 
