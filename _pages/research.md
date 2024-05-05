@@ -92,4 +92,4 @@ Slag, waste from the steel-making process, contains large amounts of calcium, ma
 
 **Publication**
 
-Zou H.-X., A.E. Anastasio, and C.A. Pfister. 2019. Early succession on slag compared to urban soil: A slower recovery. *PLoS ONE* 14(12): e0224214. [[paper]](https://doi.org/10.1371/journal.pone.0224214) [[data]](https://figshare.com/s/b1f5158a1ea5030d5a92)
+**Zou H.-X.**, A.E. Anastasio, and C.A. Pfister. 2019. Early succession on slag compared to urban soil: A slower recovery. *PLoS ONE* 14(12): e0224214. [[paper]](https://doi.org/10.1371/journal.pone.0224214) [[data]](https://figshare.com/s/b1f5158a1ea5030d5a92)
