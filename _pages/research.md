@@ -44,7 +44,7 @@ Complex communities in nature often contain interactions beyond pairwise (i.e., 
 
 **Publication**
 
-**Zou, H.-X.&ast;**, X. Yan, and V.H.W. Rudolf. 2024. Time-dependent intetaction modification generated from plant-soil feedback. Accepted, *Ecology Letters*. [[preprint]](https://www.biorxiv.org/content/10.1101/2023.11.03.565336v2.abstract) [[code]](https://github.com/hengxingzou/Zou2023bioRXiv)
+**Zou, H.-X.&ast;**, X. Yan, and V.H.W. Rudolf. 2024. Time-dependent intetaction modification generated from plant-soil feedback. Accepted, *Ecology Letters*. [[paper]](/files/Zou2024_EcolLett.pdf) [[code]](https://github.com/hengxingzou/Zou2023bioRXiv)
 
 <span style="color: #a61b29;">
 ## Bridging Theory and Experiments of Priority Effects - Theme 1
