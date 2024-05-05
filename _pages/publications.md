@@ -9,7 +9,7 @@ All **brief summaries** can be found under the [Research](/research/) tab. * den
 
 ## 2024
 
-**Zou, H.-X.\***, X. Yan, and V.H.W. Rudolf. 2024. Time-dependent intetaction modification generated from plant-soil feedback. Accepted, *Ecology Letters*. [[preprint]](https://www.biorxiv.org/content/10.1101/2023.11.03.565336v2.abstract) [[code]](https://github.com/hengxingzou/Zou2023bioRXiv) [[brief summary]](/research/#time-dependence-of-higher-order-interactions---theme-1)
+**Zou, H.-X.\***, X. Yan, and V.H.W. Rudolf. 2024. Time-dependent intetaction modification generated from plant-soil feedback. Accepted, *Ecology Letters*. [[paper]](/files/Zou2024_EcolLett.pdf) [[code]](https://github.com/hengxingzou/Zou2023bioRXiv) [[brief summary]](/research/#time-dependence-of-higher-order-interactions---theme-1)
 
 Simha, A., A. James, J.D. Monk, **H.-X. Zou**, P.-J. Ke, A. Wright, M.D. Bimler, C.M. Moore, S. Pierre, L.N. Carley, and G.S. Kandlikar. When the window is a mirror: how do dominant theories limit our understanding of nature? (ESA2023 INS23). *Bulletin of Ecological Society of America*. [[paper]](https://doi.org/10.1002/bes2.2145)
 
