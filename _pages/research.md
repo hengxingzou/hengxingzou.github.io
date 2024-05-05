@@ -44,7 +44,7 @@ Complex communities in nature often contain interactions beyond pairwise (i.e., 
 
 **Publication**
 
-**Zou, H.-X.&ast;**, X. Yan, and V.H.W. Rudolf. 2024. Time-dependent intetaction modification generated from plant-soil feedback. Accepted, *Ecology Letters*. [[paper]](/files/Zou2024_EcolLett.pdf) [[code]](https://github.com/hengxingzou/Zou2023bioRXiv)
+**Zou, H.-X.\***, X. Yan, and V.H.W. Rudolf. 2024. Time-dependent intetaction modification generated from plant-soil feedback. Accepted, *Ecology Letters*. [[paper]](/files/Zou2024_EcolLett.pdf) [[code]](https://github.com/hengxingzou/Zou2023bioRXiv)
 
 <span style="color: #a61b29;">
 ## Bridging Theory and Experiments of Priority Effects - Theme 1
@@ -56,7 +56,7 @@ Despite a long history and recent advances, current body of theory only describe
 
 **Publication**
 
-Zou, H.-X., and V.H.W. Rudolf. 2023. Bridging theory and experiments of priority effects. *Trends in Ecology and Evolution*. [[paper]](/files/Zou2023_TrendsEcolEvol.pdf) [[supplemental information]](https://www.sciencedirect.com/science/article/pii/S0169534723002124?via%3Dihub#s0070:~:text=files%20included%20with-,this,-article) [[code and data]](https://github.com/hengxingzou/Zou2023TrendsEcolEvol)
+**Zou, H.-X.\***, and V.H.W. Rudolf. 2023. Bridging theory and experiments of priority effects. *Trends in Ecology and Evolution*. [[paper]](/files/Zou2023_TrendsEcolEvol.pdf) [[supplemental information]](https://www.sciencedirect.com/science/article/pii/S0169534723002124?via%3Dihub#s0070:~:text=files%20included%20with-,this,-article) [[code and data]](https://github.com/hengxingzou/Zou2023TrendsEcolEvol)
 
 <span style="color: #a61b29;">
 ## Priority Effects and Dispersal-Diversity Relationships - Theme 1
@@ -68,7 +68,7 @@ Priority effects are ubiquitous in nature and determine local community structur
 
 **Publication**
 
-Zou, H.-X., and V.H.W. Rudolf. 2023. Priority effects determine how dispersal affects biodiversity in seasonal metacommunities. *The American Naturalist*. [[paper]](/files/Zou2023_AmNat.pdf) [[code]](https://github.com/hengxingzou/Zou2023AmNat) [[data]](https://doi.org/10.5061/dryad.sbcc2frb4)
+**Zou, H.-X.\***, and V.H.W. Rudolf. 2023. Priority effects determine how dispersal affects biodiversity in seasonal metacommunities. *The American Naturalist*. [[paper]](/files/Zou2023_AmNat.pdf) [[code]](https://github.com/hengxingzou/Zou2023AmNat) [[data]](https://doi.org/10.5061/dryad.sbcc2frb4)
 
 <span style="color: #a61b29;">
 ## Effect of Arrival Time and Number of Generations per Season on Coexistence - Theme 1
@@ -82,7 +82,7 @@ Experiments with *Tribolium* flour beetles are ongoing to test our findings.
 
 **Publication**
 
-Zou, H.-X., S.J. Schreiber, and V.H.W. Rudolf. 2023. Stage-mediated priority effects and species life history shape long-term competition dynamics. *Proceedings of Royal Society B: Biological Sciences*. [[paper]](/files/Zou2023_ProcRSocB.pdf) [[code]](https://github.com/hengxingzou/Zou2023ProcRSocB)
+**Zou, H.-X.\***, S.J. Schreiber, and V.H.W. Rudolf. 2023. Stage-mediated priority effects and species life history shape long-term competition dynamics. *Proceedings of Royal Society B: Biological Sciences*. [[paper]](/files/Zou2023_ProcRSocB.pdf) [[code]](https://github.com/hengxingzou/Zou2023ProcRSocB)
 
 ## Primary Succession of Plant Community on Industrial Waste
 
