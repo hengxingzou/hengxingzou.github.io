@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hengxing Zou"
 title_separator          : "-"
 name                     : &name "Hengxing Zou"
-description              : &description "PhD Candidate, Rice University"
+description              : &description "IGCB Postdoctoral Fellow, School for Environment and Sustainability, University of Michigan"
 url                      : https://hengxingzou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hengxing Zou"
   avatar           : "me.jpg"
-  bio              : "PhD Candidate, Rice University"
-  location         : "Houston, TX"
+  bio              : "IGCB Postdoctoral Fellow, School for Environment and Sustainability, University of Michigan"
+  location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SJUUl-0AAAAJ&hl=en"
