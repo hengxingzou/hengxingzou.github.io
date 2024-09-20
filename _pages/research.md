@@ -14,15 +14,23 @@ One of the overarching theme of ecology is studying how biotic interactions chan
 
 **2. How does changes in spatial and temporal overlaps between species affect their interactions?**
 
-If you are interested in any of the following projects, especially the ongoing ones, or would like a copy of the paper, feel free to [contact me](mailto:hz70@rice.edu)!
+If you are interested in any of the following projects, especially the ongoing ones, or would like a copy of the paper, feel free to [contact me](mailto:hxzou.ecology@gmail.com)!
 
 <span style="color: #0eb0c9;">
 ## Novel Range Shifts in Birds of North America - Theme 2
 <span>
 
-Climate change have induced consistent and directional shifts of species distributions. Despite numerous documented examples, few studies focus on the subsequent shifts in species interactions and their community-level consequences. With [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh) and [Lydia Beaudrot](https://lydiabeaudrot.weebly.com/), we are in the process of using large monitoring datasets of North American Birds to evaluate how novel spatial overlaps between species affect local communities. 
+Climate change have induced consistent and directional shifts of species distributions. Despite numerous documented examples, few studies focus on the subsequent shifts in species interactions and their community-level consequences. With [Brian Weeks](https://bcweeks.weebly.com/), [Kai Zhu](https://zhulab.seas.umich.edu/), and other collaborators, we are in the process of using large monitoring datasets of North American Birds to evaluate how novel spatial overlaps between species affect local communities. Specifically, we aim to address the following questions:
 
-**This is hopefully the start of many exciting projects on Theme 2  -- stay tuned!**
+- How do shifts in spatial range and phenology affect the functional and phylogenetic properties of local communities?
+- How do the newly arising species co-occurrences affect biotic interactions?
+- How do landscape variables relate to shifts in community structure and biotic interactions?
+
+In addition, I am also in the process of developing a a general a theoretical framework that models the change of species interactions across space and phenology.
+
+Collaborators: [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh), [Lydia Beaudrot](https://lydiabeaudrot.weebly.com/), [Scott Yanco](http://www.scottyanco.com/).
+
+**Ongoing work -- stay tuned!**
 
 <span style="color: #a61b29;">
 ## Time-dependence of Plant-microbe Interactions - Theme 1
