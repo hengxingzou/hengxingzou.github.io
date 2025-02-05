@@ -12,7 +12,7 @@ I am a Postdoctoral Fellow at the [Institute of Global Change Biology](https://s
 
 I obtained my PhD from the [Program of Ecology and Evolutionary Biology](https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program) at the Department of BioSciences, Rice University. I joined Dr. Volker Rudolf's [lab](http://volkerrudolf.weebly.com) in Fall 2019.
 
-Before coming to Rice, I graduated from the University of Chicago, where I worked with Drs. [Cathy Pfister](https://pfisterlab.uchicago.edu/) and [Alison Anastasio](https://environmentalstudies.uchicago.edu/people/alison-anastasio) on characterizing plant communities on urban contaminated soil.  
+Before moving to Rice, I graduated from the University of Chicago, where I worked with Drs. [Cathy Pfister](https://pfisterlab.uchicago.edu/) and [Alison Anastasio](https://www.alisonanastasio.com/) on characterizing plant communities on urban contaminated soil.  
 
 Click [here](/files/CV_HengxingZou.pdf) for my CV.
 
