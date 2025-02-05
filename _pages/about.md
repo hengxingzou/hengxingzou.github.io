@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the [Institute of Global Change Biology](https://seas.umich.edu/globalchangebiology), University of Michigan, under the supervision of Drs. [Brian Weeks](http://bcweeks.weebly.com/) and [Kai Zhu](https://zhulab.seas.umich.edu/). My current research focuses on how spatial and temporalchanges of species presence shape their interactions and community structure across multiple scales. My work uses a combination of theoretical modeling, data analysis, and lab experiments. Read more about my past and current projects [here](/research/).
+I am a Postdoctoral Fellow at the [Institute of Global Change Biology](https://seas.umich.edu/globalchangebiology), University of Michigan, under the supervision of Drs. [Brian Weeks](http://bcweeks.weebly.com/) and [Kai Zhu](https://zhulab.seas.umich.edu/). My current research focuses on how spatial and temporal changes of species presence shape their interactions and community structure across multiple scales. My work uses a combination of theoretical modeling, data analysis, and lab experiments. Read more about my past and current projects [here](/research/).
 
 I obtained my PhD from the [Program of Ecology and Evolutionary Biology](https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program) at the Department of BioSciences, Rice University. I joined Dr. Volker Rudolf's [lab](http://volkerrudolf.weebly.com) in Fall 2019.
 

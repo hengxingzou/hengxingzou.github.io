@@ -23,6 +23,6 @@ Simha, A., A. James, J.D. Monk, **H.-X. Zou**, P.-J. Ke, A. Wright, M.D. Bimler,
 
 ## 2022 and Earlier
 
-Liu, Junyan, **H.‐X. Zou**, B. Bachelot, T. Dong, Z. Zhu, Y. Liao, A. Plenković‐Moraj, and Y. Wu. 2021. Predicting the responses of subalpine forest landscape dynamics to climate change on the eastern Tibetan Plateau. *Global Change Biology.** [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15727)
+Liu, Junyan, **H.‐X. Zou**, B. Bachelot, T. Dong, Z. Zhu, Y. Liao, A. Plenković‐Moraj, and Y. Wu. 2021. Predicting the responses of subalpine forest landscape dynamics to climate change on the eastern Tibetan Plateau. *Global Change Biology.* [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15727)
 
 **Zou H.-X.**, A.E. Anastasio, and C.A. Pfister. 2019. Early succession on slag compared to urban soil: A slower recovery. *PLoS ONE.* [[paper]](https://doi.org/10.1371/journal.pone.0224214) [[data]](https://figshare.com/s/b1f5158a1ea5030d5a92) [[brief summary]](/research/#primary-succession-of-plant-community-on-industrial-waste)

@@ -8,27 +8,43 @@ toc_icon: ""
 toc_sticky: true
 ---
 
-One of the overarching theme of ecology is studying how biotic interactions change under different environmental factors, and how these changes affect community structure and biodiversity. Using a combination of theoretical models, experiments, and large monitoring datasets, I approach this overarching theme from two aspects:
+One of the overarching themes of ecology is studying how biotic interactions change under different environmental factors, and how these changes affect community structure and biodiversity. Using a combination of theoretical models, experiments, and large monitoring datasets, I approach this overarching theme from two aspects:
 
 **1. How does the timing of species interactions affect the community structure and biodiversity?**
 
-**2. How does changes in spatial and temporal overlaps between species affect their interactions?**
+**2. How do changes in spatial and temporal overlaps between species affect their interactions?**
 
 If you are interested in any of the following projects, especially the ongoing ones, or would like a copy of the paper, feel free to [contact me](mailto:hxzou.ecology@gmail.com)!
 
 <span style="color: #0eb0c9;">
-## Novel Range Shifts in Birds of North America - Theme 2
+## Functional Shifts of North American Avian Communities - Theme 2
 <span>
 
-Climate change have induced consistent and directional shifts of species distributions. Despite numerous documented examples, few studies focus on the subsequent shifts in species interactions and their community-level consequences. With [Brian Weeks](https://bcweeks.weebly.com/), [Kai Zhu](https://zhulab.seas.umich.edu/), and other collaborators, we are in the process of using large monitoring datasets of North American Birds to evaluate how novel spatial overlaps between species affect local communities. Specifically, we aim to address the following questions:
+![project_func_shift](/images/project_func_shift.png)
 
-- How do shifts in spatial range and phenology affect the functional and phylogenetic properties of local communities?
-- How do the newly arising species co-occurrences affect biotic interactions?
-- How do landscape variables relate to shifts in community structure and biotic interactions?
+Climate change has induced consistent and directional shifts in species distributions. Despite numerous documented examples, few studies focus on the subsequent shifts in species interactions and their community-level consequences. With [Brian Weeks](https://bcweeks.weebly.com/) and [Kai Zhu](https://zhulab.seas.umich.edu/), I am using long-term monitoring datasets to evaluate the functional shifts of North American bird communities on a fine spatial scale. Specifically, we aim to address the following questions:
 
-In addition, I am also in the process of developing a a general a theoretical framework that models the change of species interactions across space and phenology.
+- Which directions have the communities been shifting?
+- How are these shifts associated with environmental variables?
+- What species are contributing to the observed functional shifts?
 
-Collaborators: [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh), [Lydia Beaudrot](https://lydiabeaudrot.weebly.com/), [Scott Yanco](http://www.scottyanco.com/).
+**Ongoing work -- stay tuned!**
+
+Figure created by the [bbsBayes2](https://bbsbayes.github.io/bbsBayes2/index.html) package in R
+
+<span style="color: #0eb0c9;">
+## Opportunities for Novel Species Interactions from Range Shifts - Theme 2
+<span>
+
+Shifts in species distributions and abundances not only lead to changes in functional composition in communities but also the spatial overlap between species. These changes may lead to new opportunities or declined potential for species interactions. Using long-term monitoring datasets and a novel dataset that documents biotic interactions between North American birds, I am evaluating how changes in spatial co-occurrences may impact species interactions and evaluate where novel, undocumented interactions may have occurred due to range shifts. This is a collaborative effort with [Brian Weeks](https://bcweeks.weebly.com/), [Kai Zhu](https://zhulab.seas.umich.edu/), [Phoebe Zarneske](https://www.communityecologylab.com/), and [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh). 
+
+**Ongoing work -- stay tuned!**
+
+<span style="color: #0eb0c9;">
+## Collecting Interactions from Community Science Platforms - Theme 2
+<span>
+
+In order to accurately evaluate potential shifts in species interactions under climate change, we need more timely observations in nature. Community science platforms provide a unique opportunity for crowd-sourced, fast-updating documentation of species interactions. I am currently working with a team of undergraduate students through the University of Michigan’s [Undergraduate Research Opportunity Program](https://lsa.umich.edu/urop) to collect interactions among birds from records on the community science project [eBird](ebird.org). This is a collaborative effort with [Xiaohao Yang](https://www.xiaohaoyportfolio.com/), [Phoebe Zarneske](https://www.communityecologylab.com/), and [Brian Weeks] (https://bcweeks.weebly.com/). 
 
 **Ongoing work -- stay tuned!**
 
@@ -38,7 +54,7 @@ Collaborators: [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh), [Lydia B
 
 ![project_duckweed](/images/project_duckweed.jpg)
 
-Plant-microbe interactions are ubiquitous and fundamental to plant community structure, yet theory and experiments often focus on plants, and treat microbes as either fixed environments or static snapshots of time. With [Jiaqi Tan](https://jiaqitan.wixsite.com/mysite), we design experiments using duckweeds (subfamily *Lemnoideae*) and their naturally associated microbiomes to study how the length of interaction between the resident plant and its microbes affect the microbiome composition and its feedback on the future colonizing plant.
+Plant-microbe interactions are ubiquitous and fundamental to plant community structure, yet theory and experiments often focus on plants and treat microbes as either fixed environments or static snapshots of time. With [Jiaqi Tan](https://jiaqitan.wixsite.com/mysite), we design experiments using duckweeds (subfamily *Lemnoideae*) and their naturally associated microbiomes to study how the length of interaction between the resident plant and its microbes affect the microbiome composition and its feedback on the future colonizing plant.
 
 **Ongoing Project -- stay tuned!**
 
@@ -48,7 +64,7 @@ Plant-microbe interactions are ubiquitous and fundamental to plant community str
 
 ![project_tdmi](/images/project_tdmi.png)
 
-Complex communities in nature often contain interactions beyond pairwise (i.e., higher-order interactions). While common, little is known about how they change with the timing of species during community assembly. In nature, the time-dependence of interaction modifications could arise from pllant-soil feedback: the different phenology of plants may affect the composition of soil microbiomes and subsequently their effects on other plants. With [Xinyi Yan](https://xinyi-yan.github.io/), we first develop a quantitative framework of time-dependent interaction modification, then apply this framework to data generated by a novel mechanistic plant-soil feedback model. We find strong time-dependent interaction modifications when the soil microbiomes of all plants in the community greatly overlaps, which can arise from plants sharing pathogens or mutualists in nature. Our findings highlight the need of considering time in complex communities.
+Complex communities in nature often contain interactions beyond pairwise (i.e., higher-order interactions). While common, little is known about how they change with the timing of species during community assembly. In nature, the time-dependence of interaction modifications could arise from plant-soil feedback: the different phenology of plants may affect the composition of soil microbiomes and subsequently their effects on other plants. With [Xinyi Yan](https://xinyi-yan.github.io/), we first develop a quantitative framework of time-dependent interaction modification, then apply this framework to data generated by a novel mechanistic plant-soil feedback model. We find strong time-dependent interaction modifications when the soil microbiomes of all plants in the community greatly overlaps, which can arise from plants sharing pathogens or mutualists in nature. Our findings highlight the need to consider time in complex communities.
 
 **Publication**
 
@@ -60,7 +76,7 @@ Complex communities in nature often contain interactions beyond pairwise (i.e., 
 
 ![project_review](/images/project_rev.png)
 
-Despite a long history and recent advances, current body of theory only describes priority effects driven by positive frequency dependence, while many empirical studies identify biological mechanisms beyond this mechanism. To bridge this gap, we categorize priority effects as frequency-dependent or trait-dependent based on their underlying biological mechanisms. The two categories represent different biological mechanisms of priority effects that can have distinctive local and regional consequences that are still largely unexplored. Our framework encourages future studies to explicitly consider the biological mechanisms and the time scales at which they operate when studying and modeling priority effects.
+Despite a long history and recent advances, the current body of theory only describes priority effects driven by positive frequency dependence, while many empirical studies identify biological mechanisms beyond this mechanism. To bridge this gap, we categorize priority effects as frequency-dependent or trait-dependent based on their underlying biological mechanisms. The two categories represent different biological mechanisms of priority effects that can have distinctive local and regional consequences that are still largely unexplored. Our framework encourages future studies to explicitly consider the biological mechanisms and the time scales at which they operate when studying and modeling priority effects.
 
 **Publication**
 
@@ -84,7 +100,7 @@ Priority effects are ubiquitous in nature and determine local community structur
 
 ![project_priorityeffects](/images/project_pe.png)
 
-The role of priority effects in shaping the long-term dynamics of seasonal communities is poorly resolved. With [Sebastian Schreiber](https://schreiber.faculty.ucdavis.edu/), we use a general stage-structured competition model to determine how different mechanisms of priority effects may influence the long-term competition outcomes in seasonal systems. Specifically, we assume that the strength of interspecific competition depends on the stage of both species. This mechanism generates "stage-mediated priority effects" that strongly affect long-term competition outcomes with less generations per growing season, but these priority effects diminish when each season consists of more generations. Our model reveals a novel link between the number of generations in a season and the consequences of priority effects, suggesting that consequences of phenological shifts driven by climate change should depend on specific life histories of organisms.
+The role of priority effects in shaping the long-term dynamics of seasonal communities is poorly resolved. With [Sebastian Schreiber](https://schreiber.faculty.ucdavis.edu/), we use a general stage-structured competition model to determine how different mechanisms of priority effects may influence the long-term competition outcomes in seasonal systems. Specifically, we assume that the strength of interspecific competition depends on the stage of both species. This mechanism generates "stage-mediated priority effects" that strongly affect long-term competition outcomes with fewer generations per growing season, but these priority effects diminish when each season consists of more generations. Our model reveals a novel link between the number of generations in a season and the consequences of priority effects, suggesting that consequences of phenological shifts driven by climate change should depend on specific life histories of organisms.
 
 Experiments with *Tribolium* flour beetles are ongoing to test our findings.
 
@@ -96,7 +112,7 @@ Experiments with *Tribolium* flour beetles are ongoing to test our findings.
 
 ![project_slag](/images/project_slag.jpg)
 
-Slag, waste from the steel-making process, contains large amounts of calcium, magnesium, iron and other heavy metals. While many sites have undergone active restoration, traditional methods such as topsoil capping or phytoremediation performed poorly. Nevertheless, slag hosts surprisingly diverse spontaneous plant communities, but the assembly and structure of such communities is poorly studied. Collaborating with [Cathy Pfister](https://pfisterlab.uchicago.edu/) and [Alison Anastasio](https://sites.google.com/site/alisonanastasio/), we characterized plant communities on two slag sites in Calumet region on the south side of Chicago. Together with controlled experiments, we showed that species composition was fundamentally different between slag and non-slag communities and that slag communities recovered slower from disturbance, suggesting a slower succession process. Interestingly, native plants with high conservation values were also spotted on slag, highlighting the potential of industrial sites serving as native plant refugia through habitat reclamation.
+Slag, waste from the steel-making process, contains large amounts of calcium, magnesium, iron, and other heavy metals. While many sites have undergone active restoration, traditional methods such as topsoil capping or phytoremediation performed poorly. Nevertheless, slag hosts surprisingly diverse spontaneous plant communities, but the assembly and structure of such communities are poorly studied. Collaborating with [Cathy Pfister](https://pfisterlab.uchicago.edu/) and [Alison Anastasio](https://sites.google.com/site/alisonanastasio/), we characterized plant communities on two slag sites in the Calumet region on the south side of Chicago. Together with controlled experiments, we showed that species composition was fundamentally different between slag and non-slag communities and that slag communities recovered slower from disturbance, suggesting a slower succession process. Interestingly, native plants with high conservation values were also spotted on slag, highlighting the potential of industrial sites serving as native plant refugia through habitat reclamation.
 
 **Publication**
 
