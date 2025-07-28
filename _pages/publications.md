@@ -7,6 +7,12 @@ author_profile: true
 
 All **brief summaries** can be found under the [Research](/research/) tab. * denotes corresponding author. 
 
+## 2025
+
+**Zou, H.-X.\***, A.C. Smith, K. Zhu, and V.H.W. Rudolf. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v1) [[code]](/research/#functional-shifts-of-north-american-avian-communities---theme 2)
+
+**Zou, H.-X.\***, and V.H.W. Rudolf. 2025. Consequences of phenological shifts are determined by the number of generations per season. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.02.17.638696v1) [[data and code]](https://github.com/hengxingzou/Zou2025bioRXiv)[[brief summary]](/research/#effect-of-arrival-time-and-number-of-generations-per-season-on-coexistence---theme-1)
+
 ## 2024
 
 **Zou, H.-X.\***, X. Yan, and V.H.W. Rudolf. 2024. Time-dependent intetaction modification generated from plant-soil feedback. Accepted, *Ecology Letters*. [[paper]](/files/Zou2024_EcolLett.pdf) [[code]](https://github.com/hengxingzou/Zou2023bioRXiv) [[brief summary]](/research/#time-dependence-of-higher-order-interactions---theme-1)

@@ -22,15 +22,13 @@ If you are interested in any of the following projects, especially the ongoing o
 
 ![project_func_shift](/images/project_func_shift.png)
 
-Climate change has induced consistent and directional shifts in species distributions. Despite numerous documented examples, few studies focus on the subsequent shifts in species interactions and their community-level consequences. With [Brian Weeks](https://bcweeks.weebly.com/) and [Kai Zhu](https://zhulab.seas.umich.edu/), I am using long-term monitoring datasets to evaluate the functional shifts of North American bird communities on a fine spatial scale. Specifically, we aim to address the following questions:
+Climate change has led to consistent intraspecific shifts in functional traits, but we don’t know how these species-level patterns translate into community-level changes. For example, if smaller body size is beneficial, then smaller individuals should be selected within species, and smaller species should have an advantage over larger species, leading to an overall decrease in community-weighted mean of body size.  With [Adam Smith](https://adamcsmithcws.github.io/about.html), [Brian Weeks](https://bcweeks.weebly.com/) and [Kai Zhu](https://zhulab.seas.umich.edu/), I used long-term monitoring data from the [North American Breeding Bird Survey](https://www.usgs.gov/centers/eesc/science/north-american-breeding-bird-survey) to evaluate the functional shifts of North American bird communities on a fine spatial scale. We found that communities shifted toward larger body mass and smaller appendages over time, the opposite of widely documented within-species changes. These unexpected patterns arise from a small proportion (5%) of hyper-dominant species that respond idiosyncratically to human-induced land use changes.
 
-- Which directions have the communities been shifting?
-- How are these shifts associated with environmental variables?
-- What species are contributing to the observed functional shifts?
+Illustration in the figure was created by Olivia Stein, undergraduate student at the University of Michigan.
 
-**Ongoing work -- stay tuned!**
+**Preprint**
 
-Figure created by the [bbsBayes2](https://bbsbayes.github.io/bbsBayes2/index.html) package in R
+**Zou, H.-X.\***, A.C. Smith, K. Zhu, and V.H.W. Rudolf. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v1) [[code]](https://github.com/hengxingzou/Zouetal2025bioRXiv)
 
 <span style="color: #0eb0c9;">
 ## Opportunities for Novel Species Interactions from Range Shifts - Theme 2
@@ -38,7 +36,7 @@ Figure created by the [bbsBayes2](https://bbsbayes.github.io/bbsBayes2/index.htm
 
 Shifts in species distributions and abundances not only lead to changes in functional composition in communities but also the spatial overlap between species. These changes may lead to new opportunities or declined potential for species interactions. Using long-term monitoring datasets and a novel dataset that documents biotic interactions between North American birds, I am evaluating how changes in spatial co-occurrences may impact species interactions and evaluate where novel, undocumented interactions may have occurred due to range shifts. This is a collaborative effort with [Brian Weeks](https://bcweeks.weebly.com/), [Kai Zhu](https://zhulab.seas.umich.edu/), [Phoebe Zarneske](https://www.communityecologylab.com/), and [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh). 
 
-**Ongoing work -- stay tuned!**
+**Ongoing project -- stay tuned!**
 
 <span style="color: #0eb0c9;">
 ## Collecting Interactions from Community Science Platforms - Theme 2
@@ -46,7 +44,7 @@ Shifts in species distributions and abundances not only lead to changes in funct
 
 In order to accurately evaluate potential shifts in species interactions under climate change, we need more timely observations in nature. Community science platforms provide a unique opportunity for crowd-sourced, fast-updating documentation of species interactions. I am currently working with a team of undergraduate students through the University of Michigan’s [Undergraduate Research Opportunity Program](https://lsa.umich.edu/urop) to collect interactions among birds from records on the community science project [eBird](ebird.org). This is a collaborative effort with [Xiaohao Yang](https://www.xiaohaoyportfolio.com/), [Phoebe Zarneske](https://www.communityecologylab.com/), and [Brian Weeks] (https://bcweeks.weebly.com/). 
 
-**Ongoing work -- stay tuned!**
+**Ongoing project -- stay tuned!**
 
 <span style="color: #a61b29;">
 ## Time-dependence of Plant-microbe Interactions - Theme 1
@@ -54,9 +52,9 @@ In order to accurately evaluate potential shifts in species interactions under c
 
 ![project_duckweed](/images/project_duckweed.jpg)
 
-Plant-microbe interactions are ubiquitous and fundamental to plant community structure, yet theory and experiments often focus on plants and treat microbes as either fixed environments or static snapshots of time. With [Jiaqi Tan](https://jiaqitan.wixsite.com/mysite), we design experiments using duckweeds (subfamily *Lemnoideae*) and their naturally associated microbiomes to study how the length of interaction between the resident plant and its microbes affect the microbiome composition and its feedback on the future colonizing plant.
+Plant-microbe interactions are ubiquitous and fundamental to plant community structure, yet theory and experiments often focus on plants and treat microbes as either fixed environments or static snapshots of time. With [Jiaqi Tan](https://jiaqitan.wixsite.com/mysite), we design experiments using duckweeds (subfamily *Lemnoideae*) and their naturally associated microbiomes to study how the length of interaction between the resident plant and its microbes affect the microbiome composition and its feedback on the future colonizing plant. This research was supported by the Student Research Award from the [American Society of Naturalist](https://www.amnat.org/awards.html#SRA), and a Small Research Grant from the [British Ecological Society](https://www.britishecologicalsociety.org/content/small-research-grants/).
 
-**Ongoing Project -- stay tuned!**
+**Ongoing project -- stay tuned!**
 
 <span style="color: #a61b29;">
 ## Time-dependence of Higher-order Interactions - Theme 1
@@ -68,7 +66,7 @@ Complex communities in nature often contain interactions beyond pairwise (i.e., 
 
 **Publication**
 
-**Zou, H.-X.\***, X. Yan, and V.H.W. Rudolf. 2024. Time-dependent intetaction modification generated from plant-soil feedback. Accepted, *Ecology Letters*. [[paper]](/files/Zou2024_EcolLett.pdf) [[code]](https://github.com/hengxingzou/Zou2023bioRXiv)
+**Zou, H.-X.\***, X. Yan, and V.H.W. Rudolf. 2024. Time-dependent intetaction modification generated from plant-soil feedback. *Ecology Letters*. [[paper]](/files/Zou2024_EcolLett.pdf) [[code]](https://github.com/hengxingzou/Zou2023bioRXiv)
 
 <span style="color: #a61b29;">
 ## Bridging Theory and Experiments of Priority Effects - Theme 1
@@ -100,11 +98,13 @@ Priority effects are ubiquitous in nature and determine local community structur
 
 ![project_priorityeffects](/images/project_pe.png)
 
-The role of priority effects in shaping the long-term dynamics of seasonal communities is poorly resolved. With [Sebastian Schreiber](https://schreiber.faculty.ucdavis.edu/), we use a general stage-structured competition model to determine how different mechanisms of priority effects may influence the long-term competition outcomes in seasonal systems. Specifically, we assume that the strength of interspecific competition depends on the stage of both species. This mechanism generates "stage-mediated priority effects" that strongly affect long-term competition outcomes with fewer generations per growing season, but these priority effects diminish when each season consists of more generations. Our model reveals a novel link between the number of generations in a season and the consequences of priority effects, suggesting that consequences of phenological shifts driven by climate change should depend on specific life histories of organisms.
+The role of priority effects in shaping the long-term dynamics of seasonal communities is poorly resolved. With [Sebastian Schreiber](https://schreiber.faculty.ucdavis.edu/), we use a general stage-structured competition model to determine how different mechanisms of priority effects may influence the long-term competition outcomes in seasonal systems. Specifically, we assume that the strength of interspecific competition depends on the stage of both species. This mechanism generates “stage-mediated priority effects” that strongly affect long-term competition outcomes with fewer generations per growing season, but these priority effects diminish when each season consists of more generations. Our model reveals a novel link between the number of generations in a season and the consequences of priority effects, suggesting that consequences of phenological shifts driven by climate change should depend on specific life histories of organisms.
 
-Experiments with *Tribolium* flour beetles are ongoing to test our findings.
+Our experiments with two competing *Tribolium* flour beetles in the lab largely supported the conclusion of our model, that trait-dependent priority effects were the strongest with only one season and tapered off with two seasons, but did not further weaken with three seasons. This result indicates the complexity between strengths of priority effects and number of generations within a season in real-world communities.
 
-**Publication**
+**Preprint and Publication**
+
+**Zou, H.-X.\***, and V.H.W. Rudolf. 2025. Consequences of phenological shifts are determined by the number of generations per season. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.02.17.638696v1) [[data and code]](https://github.com/hengxingzou/Zou2025bioRXiv)
 
 **Zou, H.-X.\***, S.J. Schreiber, and V.H.W. Rudolf. 2023. Stage-mediated priority effects and species life history shape long-term competition dynamics. *Proceedings of Royal Society B: Biological Sciences*. [[paper]](/files/Zou2023_ProcRSocB.pdf) [[code]](https://github.com/hengxingzou/Zou2023ProcRSocB)
 
