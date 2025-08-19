@@ -2,7 +2,7 @@
 title: Research
 layout: single
 permalink: /research/
-toc: false
+toc: true
 toc_label: ""
 toc_icon: ""
 toc_sticky: true
@@ -12,7 +12,7 @@ One of the overarching themes of ecology is studying how biotic interactions cha
 
 **1. How does the timing of species interactions affect the community structure and biodiversity?**
 
-**2. How do changes in spatial and temporal overlaps between species affect their interactions?**
+**2. How do changes in spatial overlaps between species affect their interactions?**
 
 If you are interested in any of the following projects, especially the ongoing ones, or would like a copy of the paper, feel free to [contact me](mailto:hxzou.ecology@gmail.com)!
 
