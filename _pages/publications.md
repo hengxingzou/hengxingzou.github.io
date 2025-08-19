@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-All **brief summaries** can be found under the [Research](/research/) tab. * denotes corresponding author. 
+All **brief summaries** can be found under the [Research](/research/) tab. * denotes corresponding author. Check my [CV](/files/CV_HengxingZou.pdf) for more manuscripts in prep!
 
 ## 2025
+
+**Zou, H.-X.\*** 2025. Temporal niche partitioning: Mechanism of coexistence or competitive exclusion via priority effects? *Journal of Animal Ecology*. [[paper]](https://doi.org/10.1111/1365-2656.70115)
+- Invited Research Highlight article.
 
 **Zou, H.-X.\***, A.C. Smith, K. Zhu, and V.H.W. Rudolf. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v1) [[code]](https://github.com/hengxingzou/Zouetal2025bioRXiv) [[brief summary]](/research/#functional-shifts-of-north-american-avian-communities---theme 2)
 

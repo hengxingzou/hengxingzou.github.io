@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: “Species interactions under global change”
+title: Species interactions under global change
 excerpt: “”
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ Welcome to my page! I am currently a Postdoctoral Fellow at the [Institute of Gl
 
 I obtained my PhD with [Volker Rudolf](http://volkerrudolf.weebly.com) at [Rice University](https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program) in Houston, TX. Before moving to Rice, I graduated from the University of Chicago, where I worked with [Cathy Pfister](https://pfisterlab.uchicago.edu/) and [Alison Anastasio](https://www.alisonanastasio.com/) on characterizing plant communities on urban contaminated soil.  
 
-Click [here](/files/CV_HengxingZou.pdf) for my CV.
+Click [here](/files/CV_HengxingZou.pdf) for my CV. Feel free to reach out through [email](mailto:hxzou.ecology@gmail.com) or [Bluesky](https://bsky.app/profile/hengxingzou.bsky.social).
 
 Before coming to the United States for college, I spent my first 18 years in Beijing, China.
 
