@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: “Species interactions under global change”
+title: “Species interactions under global change”
+excerpt: “”
 author_profile: true
 redirect_from: 
   - /about/
