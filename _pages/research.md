@@ -28,7 +28,7 @@ Illustration in the figure was created by Olivia Stein, undergraduate student at
 
 **Preprint**
 
-**Zou, H.-X.\***, A.C. Smith, K. Zhu, and V.H.W. Rudolf. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v1) [[code]](https://github.com/hengxingzou/Zouetal2025bioRXiv)
+**Zou, H.-X.\***, A.C. Smith, K. Zhu, and B.C. Weeks. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v1) [[code]](https://github.com/hengxingzou/Zouetal2025bioRXiv)
 
 <span style="color: #0eb0c9;">
 ## Opportunities for Novel Species Interactions from Range Shifts - Theme 2
