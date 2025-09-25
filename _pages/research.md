@@ -28,7 +28,7 @@ Illustration in the figure was created by Olivia Stein, undergraduate student at
 
 **Preprint**
 
-**Zou, H.-X.\***, A.C. Smith, K. Zhu, and V.H.W. Rudolf. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v1) [[code]](https://github.com/hengxingzou/Zouetal2025bioRXiv)
+**Zou, H.-X.\***, A.C. Smith, K. Zhu, and B.C. Weeks. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v1) [[code]](https://github.com/hengxingzou/Zouetal2025bioRXiv)
 
 <span style="color: #0eb0c9;">
 ## Opportunities for Novel Species Interactions from Range Shifts - Theme 2
@@ -42,7 +42,7 @@ Shifts in species distributions and abundances not only lead to changes in funct
 ## Collecting Interactions from Community Science Platforms - Theme 2
 <span>
 
-In order to accurately evaluate potential shifts in species interactions under climate change, we need more timely observations in nature. Community science platforms provide a unique opportunity for crowd-sourced, fast-updating documentation of species interactions. I am currently working with a team of undergraduate students through the University of Michigan’s [Undergraduate Research Opportunity Program](https://lsa.umich.edu/urop) to collect interactions among birds from records on the community science project [eBird](ebird.org). This is a collaborative effort with [Xiaohao Yang](https://www.xiaohaoyportfolio.com/), [Phoebe Zarneske](https://www.communityecologylab.com/), and [Brian Weeks](https://bcweeks.weebly.com/). 
+In order to accurately evaluate potential shifts in species interactions under climate change, we need more timely observations in nature. Community science platforms provide a unique opportunity for crowd-sourced, fast-updating documentation of species interactions. I am currently working with a team of undergraduate students through the University of Michigan’s [Undergraduate Research Opportunity Program](https://lsa.umich.edu/urop) to collect interactions among birds from records on the community science project [eBird](ebird.org). This is a collaborative effort with [Xiaohao Yang](https://www.xiaohaoyportfolio.com/), [Phoebe Zarneske](https://www.communityecologylab.com/), and [Brian Weeks](https://bcweeks.weebly.com/). The data extraction is supported by a team of excellent undergrads, many hired through University of Michigan's [UROP](https://lsa.umich.edu/urop) program: Thabassum Hashmi Hajamaideen, Samantha Lukes, Olivia Stein, and Sophia Thomas. 
 
 **Ongoing project -- stay tuned!**
 
