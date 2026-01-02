@@ -22,21 +22,25 @@ If you are interested in any of the following projects, especially the ongoing o
 
 ![project_func_shift](/images/project_func_shift.png)
 
-Climate change has led to consistent intraspecific shifts in functional traits, but we don’t know how these species-level patterns translate into community-level changes. For example, if smaller body size is beneficial, then smaller individuals should be selected within species, and smaller species should have an advantage over larger species, leading to an overall decrease in community-weighted mean of body size.  With [Adam Smith](https://adamcsmithcws.github.io/about.html), [Brian Weeks](https://bcweeks.weebly.com/) and [Kai Zhu](https://zhulab.seas.umich.edu/), I used long-term monitoring data from the [North American Breeding Bird Survey](https://www.usgs.gov/centers/eesc/science/north-american-breeding-bird-survey) to evaluate the functional shifts of North American bird communities on a fine spatial scale. We found that communities shifted toward larger body mass and smaller appendages over time, the opposite of widely documented within-species changes. These unexpected patterns arise from a small proportion (5%) of hyper-dominant species that respond idiosyncratically to human-induced land use changes.
+Climate change has led to consistent intraspecific shifts in functional traits, but we don’t know how these species-level patterns translate into community-level changes. For example, if smaller body size is beneficial, then smaller individuals should be selected within species, and smaller species should have an advantage over larger species, leading to an overall decrease in community-weighted mean of body size.  With [Adam Smith](https://adamcsmithcws.github.io/about.html), [Yiluan Song](https://yiluansong.github.io/), [Kai Zhu](https://zhulab.seas.umich.edu/), and [Brian Weeks](https://bcweeks.weebly.com/), I used long-term monitoring data from the [North American Breeding Bird Survey](https://www.usgs.gov/centers/eesc/science/north-american-breeding-bird-survey) to evaluate the functional shifts of North American bird communities on a fine spatial scale. We found that communities shifted toward larger body mass and smaller appendages over time, the opposite of widely documented within-species changes. These unexpected patterns arise from a small proportion (5%) of hyper-dominant species that respond idiosyncratically to human-induced land use changes.
 
 Illustration in the figure was created by Olivia Stein, undergraduate student at the University of Michigan.
 
 **Preprint**
 
-**Zou, H.-X.\***, A.C. Smith, K. Zhu, and B.C. Weeks. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v1) [[code]](https://github.com/hengxingzou/Zouetal2025bioRXiv)
+**Zou, H.-X.\***, A.C. Smith, Y. Song, K. Zhu, and B.C. Weeks. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v2) [[code]](https://github.com/hengxingzou/Zouetal2025bioRXiv)
 
 <span style="color: #0eb0c9;">
-## Opportunities for Novel Species Interactions from Range Shifts - Theme 2
+## Abundance redistribution changes interaction potentials among birds - Theme 2
 <span>
 
-Shifts in species distributions and abundances not only lead to changes in functional composition in communities but also the spatial overlap between species. These changes may lead to new opportunities or declined potential for species interactions. Using long-term monitoring datasets and a novel dataset that documents biotic interactions between North American birds, I am evaluating how changes in spatial co-occurrences may impact species interactions and evaluate where novel, undocumented interactions may have occurred due to range shifts. This is a collaborative effort with [Brian Weeks](https://bcweeks.weebly.com/), [Kai Zhu](https://zhulab.seas.umich.edu/), [Phoebe Zarneske](https://www.communityecologylab.com/), and [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh). 
+![project_predprey](/images/project_predprey.png)
 
-**Ongoing project -- stay tuned!**
+Shifts in species distributions and abundances not only lead to changes in functional composition in communities but also the spatial overlap between species. These changes may lead to new opportunities or declined potential for species interactions. Using long-term monitoring datasets and a novel dataset that documents biotic interactions between North American birds, we found overall increases in the potential of predator-prey interactions across North America, and these increases were mostly caused by the overall increases in predator abundances. We further found that changes in predator-prey interactions were more tightly associated with human-induced land use changes rather than climate change. This is a collaborative effort with [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh), [Phoebe Zarneske](https://www.communityecologylab.com/), [Kai Zhu](https://zhulab.seas.umich.edu/), and [Brian Weeks](https://bcweeks.weebly.com/). 
+
+**Preprint**
+
+**Zou, H.-X.\***, C. Hsieh, P.L. Zarnetske, K. Zhu, and B.C. Weeks. 2025. Abundance redistribution increases predator-prey interaction potentials among North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.64898/2025.12.19.695589v1) [[code]](https://github.com/hengxingzou/Zouetal2025b_bioRXiv)
 
 <span style="color: #0eb0c9;">
 ## Collecting Interactions from Community Science Platforms - Theme 2
