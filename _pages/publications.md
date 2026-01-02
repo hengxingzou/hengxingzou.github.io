@@ -9,10 +9,12 @@ All **brief summaries** can be found under the [Research](/research/) tab. * den
 
 ## 2025
 
+**Zou, H.-X.\***, C. Hsieh, P.L. Zarnetske, K. Zhu, and B.C. Weeks. 2025. Abundance redistribution increases predator-prey interaction potentials among North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.64898/2025.12.19.695589v1) [[code]](https://github.com/hengxingzou/Zouetal2025b_bioRXiv)[[brief summary]](/research/#abundance-redistribution-changes-interaction-potentials-among-birds---theme 2)
+
 **Zou, H.-X.\*** 2025. Temporal niche partitioning: Mechanism of coexistence or competitive exclusion via priority effects? *Journal of Animal Ecology*. [[paper]](/files/Zou2025_JAnimEcol.pdf)
 - Invited Research Highlight article.
 
-**Zou, H.-X.\***, A.C. Smith, K. Zhu, and V.H.W. Rudolf. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v1) [[code]](https://github.com/hengxingzou/Zouetal2025bioRXiv) [[brief summary]](/research/#functional-shifts-of-north-american-avian-communities---theme 2)
+**Zou, H.-X.\***, A.C. Smith, Y.Song, K. Zhu, and V.H.W. Rudolf. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v2) [[code]](https://github.com/hengxingzou/Zouetal2025bioRXiv) [[brief summary]](/research/#functional-shifts-of-north-american-avian-communities---theme 2)
 
 **Zou, H.-X.\***, and V.H.W. Rudolf. 2025. Consequences of phenological shifts are determined by the number of generations per season. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.02.17.638696v1) [[data and code]](https://github.com/hengxingzou/Zou2025bioRXiv)[[brief summary]](/research/#effect-of-arrival-time-and-number-of-generations-per-season-on-coexistence---theme-1)
 

@@ -17,6 +17,18 @@ One of the overarching themes of ecology is studying how biotic interactions cha
 If you are interested in any of the following projects, especially the ongoing ones, or would like a copy of the paper, feel free to [contact me](mailto:hxzou.ecology@gmail.com)!
 
 <span style="color: #0eb0c9;">
+## Abundance redistribution changes interaction potentials among birds - Theme 2
+<span>
+
+![project_predprey](/images/project_predprey.png)
+
+Shifts in species distributions and abundances not only lead to changes in functional composition in communities but also the spatial overlap between species. These changes may lead to new opportunities or declined potential for species interactions. Using long-term monitoring datasets and a novel dataset that documents biotic interactions between North American birds, we found overall increases in the potential of predator-prey interactions across North America, and these increases were mostly caused by the overall increases in predator abundances. We further found that changes in predator-prey interactions were more tightly associated with human-induced land use changes rather than climate change. This is a collaborative effort with [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh), [Phoebe Zarneske](https://www.communityecologylab.com/), [Kai Zhu](https://zhulab.seas.umich.edu/), and [Brian Weeks](https://bcweeks.weebly.com/). 
+
+**Preprint**
+
+**Zou, H.-X.\***, C. Hsieh, P.L. Zarnetske, K. Zhu, and B.C. Weeks. 2025. Abundance redistribution increases predator-prey interaction potentials among North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.64898/2025.12.19.695589v1) [[code]](https://github.com/hengxingzou/Zouetal2025b_bioRXiv)
+
+<span style="color: #0eb0c9;">
 ## Functional Shifts of North American Avian Communities - Theme 2
 <span>
 
@@ -29,18 +41,6 @@ Illustration in the figure was created by Olivia Stein, undergraduate student at
 **Preprint**
 
 **Zou, H.-X.\***, A.C. Smith, Y. Song, K. Zhu, and B.C. Weeks. 2025. Hyper-dominant species drive unexpected functional shifts in North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.23.666479v2) [[code]](https://github.com/hengxingzou/Zouetal2025bioRXiv)
-
-<span style="color: #0eb0c9;">
-## Abundance redistribution changes interaction potentials among birds - Theme 2
-<span>
-
-![project_predprey](/images/project_predprey.png)
-
-Shifts in species distributions and abundances not only lead to changes in functional composition in communities but also the spatial overlap between species. These changes may lead to new opportunities or declined potential for species interactions. Using long-term monitoring datasets and a novel dataset that documents biotic interactions between North American birds, we found overall increases in the potential of predator-prey interactions across North America, and these increases were mostly caused by the overall increases in predator abundances. We further found that changes in predator-prey interactions were more tightly associated with human-induced land use changes rather than climate change. This is a collaborative effort with [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh), [Phoebe Zarneske](https://www.communityecologylab.com/), [Kai Zhu](https://zhulab.seas.umich.edu/), and [Brian Weeks](https://bcweeks.weebly.com/). 
-
-**Preprint**
-
-**Zou, H.-X.\***, C. Hsieh, P.L. Zarnetske, K. Zhu, and B.C. Weeks. 2025. Abundance redistribution increases predator-prey interaction potentials among North American birds. *bioRXiv*. [[paper]](https://www.biorxiv.org/content/10.64898/2025.12.19.695589v1) [[code]](https://github.com/hengxingzou/Zouetal2025b_bioRXiv)
 
 <span style="color: #0eb0c9;">
 ## Collecting Interactions from Community Science Platforms - Theme 2
