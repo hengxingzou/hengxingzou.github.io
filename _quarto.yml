@@ -19,25 +19,7 @@ format:
     theme: sandstone
     css: styles.css
     toc: true
-    header-includes:
-      - |
-        <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          const allLinks = document.querySelectorAll('a[href]');
-
-          allLinks.forEach(function (link) {
-            const isInNavbar = link.closest('nav') !== null;
-            const isInToC = link.closest('.toc') !== null || link.closest('#TOC') !== null;
-
-            const isExternal = link.hostname !== window.location.hostname;
-
-            if (!isInNavbar && !isInToC && isExternal) {
-              link.setAttribute('target', '_blank');
-              link.setAttribute('rel', 'noopener noreferrer');
-            }
-          });
-        });
-        </script>
+    include-after-body: link_target.html
 
 publish:
   gh-pages:
