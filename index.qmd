@@ -1,0 +1,22 @@
+---
+title: "Hengxing Zou"
+subtitle: "Species interactions under global change"
+about:
+  template: marquee
+comments: false
+include-after-body: _includes/statcounter.html
+---
+
+::: column-page
+Welcome to my page! I am a global change ecologist interested in understanding how spatial and temporal changes of species distribution shape their interactions and community structure. I use a combination of ecological theory, data analysis, lab experiment, and fieldwork to study species interactions under global change. Currently, my research is heavily focus on North American birds. Read more about my past and current projects [here](/research/).
+
+I am currently a Postdoctoral Fellow working with [TJ Clark-Wolf](https://www.clarkwolflab.com/) (Department of Wildland Resources, USU), [Erica Stuber](https://efstuber.wixsite.com/xscaleeco) (USGS Utah Unit), and [Alex Baecher](https://questlab.eco/) (Department of Environmental Science, Emory University).
+
+Previously, I was a Postdoctoral Fellow at the [Institute of Global Change Biology](https://seas.umich.edu/globalchangebiology) at the University of Michigan, working with [Brian Weeks](http://bcweeks.weebly.com/) and [Kai Zhu](https://zhulab.seas.umich.edu/).
+
+I obtained my PhD with [Volker Rudolf](http://volkerrudolf.weebly.com) at [Rice University](https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program) in Houston, TX. Before moving to Rice, I graduated from the University of Chicago, where I worked with [Cathy Pfister](https://pfisterlab.uchicago.edu/) and [Alison Anastasio](https://www.alisonanastasio.com/) on characterizing plant communities on urban contaminated soil.
+
+Click [here](/files/CV_HengxingZou.pdf) for my CV. Feel free to reach out through [email](mailto:hxzou.ecology@gmail.com) or [Bluesky](https://bsky.app/profile/hengxingzou.bsky.social).
+
+Before coming to the United States for college, I spent my first 18 years in Beijing, China.
+:::
