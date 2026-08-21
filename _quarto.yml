@@ -9,10 +9,6 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: research.qmd
-        text: Research
-      - href: news.qmd
-        text: News
 
 format:
   html:
