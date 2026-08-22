@@ -2,11 +2,14 @@
   {
     "listing": "/research.html",
     "items": [
+      "/research/functional_diversity/index.html",
+      "/research/brood_parasitism/index.html",
       "/research/llm_interactions/index.html",
       "/research/predator_prey/index.html",
       "/research/functional_shifts/index.html",
-      "/research/tribolium_pe/index.html",
+      "/research/clutchsize_shift/index.html",
       "/research/duckweed_psf/index.html",
+      "/research/tribolium_pe/index.html",
       "/research/psf_hoi/index.html",
       "/research/pe_review/index.html",
       "/research/stage_structure/index.html",
