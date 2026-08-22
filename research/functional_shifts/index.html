@@ -6,8 +6,16 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Heng-Xing Zou">
+<meta name="author" content="Adam Smith">
+<meta name="author" content="Yiluan Song">
+<meta name="author" content="Brian Weeks">
+<meta name="author" content="Kai Zhu">
+<meta name="dcterms.date" content="2026-08-19">
+<meta name="keywords" content="community-weighted means, land use change, North American Breeding Bird Survey">
+<meta name="description" content="In review, PNAS">
 
-<title>Research – Hengxing Zou</title>
+<title>Abundance redistribution changes predator-prey interaction potentials – Hengxing Zou</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +34,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-de60624a5cb141114e0ea2b9bc293073.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-de60624a5cb141114e0ea2b9bc293073.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,77 +77,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Hengxing Zou</span>
     </a>
   </div>
@@ -153,11 +100,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" aria-current="page"> 
+    <a class="nav-link" href="../../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
 </ul>
@@ -171,190 +118,73 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="QmlnJTIwZGF0YSUyMGFuYWx5c2lz">Big data analysis <span class="quarto-category-count">(3)</span></div><div class="category" data-category="QmlyZA==">Bird <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Rmlyc3QtYXV0aG9y">First-author <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RnVuY3Rpb25hbCUyMGVjb2xvZ3k=">Functional ecology <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UGhlbm9sb2d5">Phenology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGxhbnQ=">Plant <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGhlb3JldGljYWwlMjBtb2RlbA==">Theoretical model <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Research</h1>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
+<div class="quarto-about-marquee">
+  <div class="about-image-container">
+    <img src="project_func_shift.png" class="about-image " style="width: 100%;">
   </div>
-  
-
-
-</header>
-
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QmlnJTIwZGF0YSUyMGFuYWx5c2lzJTJDRmlyc3QtYXV0aG9y" data-listing-date-sort="1787284800000" data-listing-file-modified-sort="1787364112265" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="237">
-<div class="thumbnail"><a href="./research/llm_interactions/index.html" class="no-external">
-
-<img loading="lazy" src="./research/llm_interactions/project_llmperspective.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./research/llm_interactions/index.html" class="no-external">Large Language Models unlock the ecology of species interactions</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./research/llm_interactions/index.html" class="no-external">Using LLMs to collect species interaction data from an underutilized source: citizen science comments</a>
+  <div class="about-contents">
+    <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Abundance redistribution changes predator-prey interaction potentials</h1>
+<p class="subtitle lead">A new metric reveals widespread increase in predator-prey interactions among North American birds</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Big data analysis</div>
+    <div class="quarto-category">First-author</div>
+    <div class="quarto-category">Functional ecology</div>
+    <div class="quarto-category">Bird</div>
+  </div>
+  </div>
+<div>
+  <div class="description">
+    In review, PNAS
+  </div>
 </div>
-<div class="listing-categories">
+<div class="quarto-title-meta">
+    <div>
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-contents">
+             <p><strong>Heng-Xing Zou</strong> </p>
+             <p>Adam Smith </p>
+             <p>Yiluan Song </p>
+             <p>Brian Weeks </p>
+             <p>Kai Zhu </p>
+          </div>
+  </div>
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">August 19, 2026</p>
+    </div>
+  </div>
+  </div>
+<div>
+  <div class="keywords">
+    <div class="block-title">Keywords</div>
+    <p>community-weighted means, land use change, North American Breeding Bird Survey</p>
+  </div>
+</div>
+</header> <main class="content" id="quarto-document-content">
+<p>Responses to global environmental changes have been documented from individual organisms to entire ecosystems, but the understanding of how these responses scale up remains limited. Using 50 years of bird abundance data in North America, we found widespread shifts toward bird communities with larger body masses and relative appendages but smaller clutch sizes and shorter generation lengths. A small number of hyper-dominant species drove these changes, as their abundances greatly increased or decreased, associated with idiosyncratic environmental factors such as different land use types; consequently, community-level changes are not well predicted from widely observed within-species patterns. Our results demonstrate that community-level functional responses to global change are likely to be driven by hyper-dominant species responding to multiple environmental drivers.</p>
+<p>This is a collaborative effort with <a href="https://adamcsmithcws.github.io/about.html">Adam Smith</a> (Carleton University), <a href="https://yiluansong.github.io/">Yiluan Song</a> (University of Pittsburgh), <a href="https://zhulab.seas.umich.edu/">Kai Zhu</a> (University of Michigan), and <a href="https://bcweeks.weebly.com/">Brian Weeks</a> (University of Michigan). Illustration in the figure was created by Olivia Stein, undergraduate student at the University of Michigan.</p>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QmlnJTIwZGF0YSUyMGFuYWx5c2lz'); return false;">Big data analysis</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('Rmlyc3QtYXV0aG9y'); return false;">First-author</div>
-
-</div>
-<div class="delink listing-description"><a href="./research/llm_interactions/index.html" class="no-external">
-<p>In revision, PNAS</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./research/llm_interactions/index.html" class="no-external">
-<div class="listing-date">
-Aug 21, 2026
-</div>
-<div class="listing-author">
-<strong>Heng-Xing Zou</strong>, Xiaohao Yang, Thabassum Hashmi Hajamaideen, Olivia Stein, … , Phoebe Zarnetske, Brian Weeks, Kai Zhu
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="QmlnJTIwZGF0YSUyMGFuYWx5c2lzJTJDRmlyc3QtYXV0aG9yJTJDRnVuY3Rpb25hbCUyMGVjb2xvZ3klMkNCaXJk" data-listing-date-sort="1787198400000" data-listing-file-modified-sort="1787365108324" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="179">
-<div class="thumbnail"><a href="./research/predator_prey/index.html" class="no-external">
-
-<img loading="lazy" src="./research/predator_prey/project_predprey.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./research/predator_prey/index.html" class="no-external">Abundance redistribution changes predator-prey interaction potentials</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./research/predator_prey/index.html" class="no-external">A new metric reveals widespread increase in predator-prey interactions among North American birds</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QmlnJTIwZGF0YSUyMGFuYWx5c2lz'); return false;">Big data analysis</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Rmlyc3QtYXV0aG9y'); return false;">First-author</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RnVuY3Rpb25hbCUyMGVjb2xvZ3k='); return false;">Functional ecology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QmlyZA=='); return false;">Bird</div>
-
-</div>
-<div class="delink listing-description"><a href="./research/predator_prey/index.html" class="no-external">
-<p>In revision, Global Change Biology</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./research/predator_prey/index.html" class="no-external">
-<div class="listing-date">
-Aug 20, 2026
-</div>
-<div class="listing-author">
-<strong>Heng-Xing Zou</strong>, Chia Hsieh, Phoebe Zarnetske, Brian Weeks, Kai Zhu
-</div>
-</a>
+</main> 
+    <div class="about-footer"><div class="about-links">
+  <a href="https://www.biorxiv.org/content/10.1101/2025.07.23.666479v2" class="about-link" rel="" target="">
+    <i class="bi bi-file"></i>
+     <span class="about-link-text">Preprint</span>
+  </a>
+  <a href="https://github.com/hengxingzou/Zouetal2025a_bioRXiv" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Code</span>
+  </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="QmlnJTIwZGF0YSUyMGFuYWx5c2lzJTJDRmlyc3QtYXV0aG9yJTJDRnVuY3Rpb25hbCUyMGVjb2xvZ3klMkNCaXJk" data-listing-date-sort="1787112000000" data-listing-file-modified-sort="1787365064502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="160">
-<div class="thumbnail"><a href="./research/functional_shifts/index.html" class="no-external">
-
-<img loading="lazy" src="./research/functional_shifts/project_func_shift.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./research/functional_shifts/index.html" class="no-external">Abundance redistribution changes predator-prey interaction potentials</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./research/functional_shifts/index.html" class="no-external">A new metric reveals widespread increase in predator-prey interactions among North American birds</a>
+  </div>
 </div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QmlnJTIwZGF0YSUyMGFuYWx5c2lz'); return false;">Big data analysis</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Rmlyc3QtYXV0aG9y'); return false;">First-author</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RnVuY3Rpb25hbCUyMGVjb2xvZ3k='); return false;">Functional ecology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QmlyZA=='); return false;">Bird</div>
-
-</div>
-<div class="delink listing-description"><a href="./research/functional_shifts/index.html" class="no-external">
-<p>In review, PNAS</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./research/functional_shifts/index.html" class="no-external">
-<div class="listing-date">
-Aug 19, 2026
-</div>
-<div class="listing-author">
-<strong>Heng-Xing Zou</strong>, Adam Smith, Yiluan Song, Brian Weeks, Kai Zhu
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="VGhlb3JldGljYWwlMjBtb2RlbCUyQ1BsYW50JTJDUGhlbm9sb2d5" data-listing-date-sort="1713585600000" data-listing-file-modified-sort="1787365271889" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="127">
-<div class="thumbnail"><a href="./research/psf_hoi/index.html" class="no-external">
-
-<img loading="lazy" src="./research/psf_hoi/project_tdmi.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./research/psf_hoi/index.html" class="no-external">Time-dependent interaction modification from plant-soil feedback</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./research/psf_hoi/index.html" class="no-external">A novel plant-soil feedback model reveals higher-order interactions that change through plant phenology</a>
-</div>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('VGhlb3JldGljYWwlMjBtb2RlbA=='); return false;">Theoretical model</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UGxhbnQ='); return false;">Plant</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UGhlbm9sb2d5'); return false;">Phenology</div>
-
-</div>
-<div class="delink listing-description"><a href="./research/psf_hoi/index.html" class="no-external">
-<p>Ecology Letters, 2024</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./research/psf_hoi/index.html" class="no-external">
-<div class="listing-date">
-Apr 20, 2024
-</div>
-<div class="listing-author">
-<strong>Heng-Xing Zou</strong>, Xinyi Yan, Volker Rudolf
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+ <!-- /main -->
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   const allLinks = document.querySelectorAll('a[href]');
@@ -371,55 +201,8 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
-<style>
-.statcounter-container {
-  font-family: sans-serif;
-  font-size: 1rem;
-  color: #444;
-  margin-top: 2em;
-  text-align: center;
-}
-
-.statcounter-container .label {
-  margin-right: 0.3em;
-}
-
-.statcounter-container img.statcounter {
-  vertical-align: middle;
-  border: none;
-  height: 1.2em;
-  margin-left: 0.3em;
-  filter: grayscale(100%) opacity(0.7);
-}
-</style>
-
-<div class="statcounter-container">
-  <!-- <span class="label">You are visitor</span> -->
-  <script type="text/javascript">
-    var sc_project = 13034969;
-    var sc_invisible = 1;
-    var sc_security = "e7f399a9";
-    var scJsHost = "https://";
-    document.write("<sc" + "ript type='text/javascript' src='" + scJsHost +
-      "statcounter.com/counter/counter.js'></" + "script>");
-  </script>
-  <noscript>
-    <div>
-      <a title="web statistics" href="https://statcounter.com/" target="_blank">
-        <img class="statcounter" src="https://c.statcounter.com/13034969/0/e7f399a9/0/" alt="web statistics" referrerpolicy="no-referrer-when-downgrade">
-      </a>
-    </div>
-  </noscript>
-</div>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

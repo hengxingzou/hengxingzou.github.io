@@ -3,7 +3,9 @@
     "listing": "/research.html",
     "items": [
       "/research/llm_interactions/index.html",
-      "/research/predator_prey/index.html"
+      "/research/predator_prey/index.html",
+      "/research/functional_shifts/index.html",
+      "/research/psf_hoi/index.html"
     ]
   }
 ]
