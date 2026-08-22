@@ -1,0 +1,41 @@
+---
+title: "Effect of phenology and number of generations per season on coexistence"
+subtitle: "Lab experiments on _Tribolium_ beetles show synergistic effects between priority effects and voltinism"
+author: 
+  - __Heng-Xing Zou__
+  - Volker Rudolf
+date: "2026-07-20"
+description: "Published in _Ecology_, 2026"
+image: "project_tribolium.png"
+categories:
+  - Experiment
+  - Priority effects
+  - Phenology
+  - First-author
+keywords:
+  - priority effects
+  - _Tribolium_
+  - life history
+  - seasonal dynamics
+  - phenology
+  - coexistence
+about:
+  template: marquee
+  links:
+    - text: Paper
+      icon: file
+      url: "Zou2026_Ecology.pdf"
+    - text: Code
+      icon: github
+      url: "https://github.com/hengxingzou/Zou2026Ecology"
+    - text: Data
+      icon: file
+      url: "https://figshare.com/articles/software/Zou2026Ecology/32118556/2?file=64078669"
+format:
+  html:
+    toc: true
+---
+
+Priority effects are common in communities with drastically different life histories (e.g., bacteria, insects, and amphibians), yet how their life history traits affect the consequences of priority effects in seasonal systems remains understudied. With [Volker Rudolf](https://www.volkerrudolf.com/) (Rice University), we test how the length of one growing season, which can accommodate different numbers of overlapping generations, interacts with priority effects using two competing flour beetles, *Tribolium castaneum* and *Tribolium confusum*. We manipulated the sequence and timing of arrivals and collected all adults after one, two, or three generations, simulating phenological shifts in communities with different growing season lengths with less or more overlapping generations. We found weaker priority effects wiwth longer experimental durations (which included more overlapping generations). These results suggest that changes in the order and timing of species arrival (e.g., due to climate change) can impact species coexistence, but such effects could be contingent on the life history, such as the number of generations of interacting species, or abiotic factors, such as the duration of a growing season.
+
+This is a direct test of the theoretical results on [two competing stage-structured species](../stage_structure/index.qmd).

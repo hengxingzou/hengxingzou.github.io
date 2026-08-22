@@ -1,0 +1,38 @@
+---
+title: "Functional shifts of bird communities determined by hyper-dominant species"
+subtitle: "A few species that respond dramatically to land use change greatly affect bird functional composition"
+author: 
+  - __Heng-Xing Zou__
+  - Adam Smith
+  - Yiluan Song
+  - Brian Weeks
+  - Kai Zhu
+date: "2026-08-19"
+description: "In review, _PNAS_"
+image: "project_func_shift.png"
+categories:
+  - Big data analysis
+  - First-author
+  - Functional ecology
+  - Bird
+keywords:
+  - community-weighted means
+  - land use change
+  - North American Breeding Bird Survey
+about:
+  template: marquee
+  links:
+    - text: Preprint
+      icon: file
+      url: "https://www.biorxiv.org/content/10.1101/2025.07.23.666479v2"
+    - text: Code
+      icon: github
+      url: "https://github.com/hengxingzou/Zouetal2025a_bioRXiv"
+format:
+  html:
+    toc: true
+---
+
+Responses to global environmental changes have been documented from individual organisms to entire ecosystems, but the understanding of how these responses scale up remains limited. Using 50 years of bird abundance data in North America, we found widespread shifts toward bird communities with larger body masses and relative appendages but smaller clutch sizes and shorter generation lengths. A small number of hyper-dominant species drove these changes, as their abundances greatly increased or decreased, associated with idiosyncratic environmental factors such as different land use types; consequently, community-level changes are not well predicted from widely observed within-species patterns. Our results demonstrate that community-level functional responses to global change are likely to be driven by hyper-dominant species responding to multiple environmental drivers.
+
+This is a collaborative effort with [Adam Smith](https://adamcsmithcws.github.io/about.html) (Carleton University), [Yiluan Song](https://yiluansong.github.io/) (University of Pittsburgh), [Kai Zhu](https://zhulab.seas.umich.edu/) (University of Michigan), and [Brian Weeks](https://bcweeks.weebly.com/) (University of Michigan). Illustration in the figure was created by Olivia Stein, undergraduate student at the University of Michigan.

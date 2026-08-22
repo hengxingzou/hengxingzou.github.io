@@ -1,0 +1,33 @@
+---
+title: "Primary succession of plant community on industrial waste"
+subtitle: "Slag fundamentally changed plant community assembly and composition"
+author: 
+  - __Heng-Xing Zou__
+  - Alison Anastasio
+  - Catherine Pfister
+date: "2020-01-12"
+description: "Published in _The American Naturalist_, 2023"
+image: "project_slag.png"
+categories:
+  - Experiment
+  - Field
+  - Plant
+  - First-author
+keywords:
+  - community assembly
+  - succession
+  - industrial waste
+about:
+  template: marquee
+  links:
+    - text: Paper
+      icon: file
+      url: "Zou2019_PLoSONE.pdf"
+format:
+  html:
+    toc: true
+---
+
+Slag, waste from the steel-making process, contains large amounts of calcium, magnesium, iron, and other heavy metals. While many sites have undergone active restoration, traditional methods such as topsoil capping or phytoremediation performed poorly. Nevertheless, slag hosts surprisingly diverse spontaneous plant communities, but the assembly and structure of such communities are poorly studied. Collaborating with [Cathy Pfister](https://pfisterlab.uchicago.edu/) and [Alison Anastasio](https://sites.google.com/site/alisonanastasio/), we characterized plant communities on two slag sites in the Calumet region on the south side of Chicago. Together with controlled experiments, we showed that species composition was fundamentally different between slag and non-slag communities and that slag communities recovered slower from disturbance, suggesting a slower succession process. Interestingly, native plants with high conservation values were also spotted on slag, highlighting the potential of industrial sites serving as native plant refugia through habitat reclamation.
+
+See related work on how urban wastelands such as slag have [unrealized restoration potential](https://onlinelibrary.wiley.com/doi/full/10.1111/rec.13643). 

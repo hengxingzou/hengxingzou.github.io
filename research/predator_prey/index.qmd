@@ -1,0 +1,38 @@
+---
+title: "Abundance redistribution changes predator-prey interaction potentials"
+subtitle: "A new metric reveals widespread increase in predator-prey interactions among North American birds"
+author: 
+  - __Heng-Xing Zou__
+  - Chia Hsieh
+  - Phoebe Zarnetske
+  - Brian Weeks
+  - Kai Zhu
+date: "2026-08-20"
+description: "In revision, _Global Change Biology_"
+image: "project_predprey.png"
+categories:
+  - Big data analysis
+  - First-author
+  - Functional ecology
+  - Bird
+keywords:
+  - predator-prey interactions
+  - land use change
+  - North American Breeding Bird Survey
+about:
+  template: marquee
+  links:
+    - text: Preprint
+      icon: file
+      url: "https://www.biorxiv.org/content/10.64898/2025.12.19.695589v1"
+    - text: Code
+      icon: github
+      url: "https://github.com/hengxingzou/Zouetal2025b_bioRXiv"
+format:
+  html:
+    toc: true
+---
+
+Shifts in species distributions and abundances not only lead to changes in functional composition in communities but also the spatial overlap between species. These changes may lead to new opportunities or declined potential for species interactions. Using long-term monitoring data from the North American Breeding Bird Survey and a dataset that documents predator-prey interactions between North American birds, we first defined a novel metric that measures and predicts the interaction potential between birds, then analyzed its spatial and temporal changes. We found overall increases in the potential of predator-prey interactions across North America, and these increases were mostly caused by the increases in predator abundances. We further found that changes in predator-prey interactions were more tightly associated with human-induced land use changes rather than climate change. Our novel approach and results highlight the importance of considering traits, abundance, and species interactions—including known and potential interactions—when studying the ecological consequences of species range shifts.
+
+This is a collaborative effort with [Chia Hsieh](https://chiahsieh72.wixsite.com/chiahsieh) (Michigan State University), [Phoebe Zarneske](https://www.communityecologylab.com/) (Michigan State University), [Kai Zhu](https://zhulab.seas.umich.edu/) (University of Michigan), and [Brian Weeks](https://bcweeks.weebly.com/) (University of Michigan).

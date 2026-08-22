@@ -1,8 +1,19 @@
 ---
-title: "Hengxing Zou"
+title: "Hengxing Zou (邹恒星)"
 subtitle: "Species interactions under global change"
 about:
-  template: marquee
+  template: trestles
+  image: images/me3.png
+  links: 
+    - icon: bluesky
+      text: bluesky
+      href: https://bsky.app/profile/hengxingzou.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/hengxingzou
+    - icon: googlescholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=SJUUl-0AAAAJ&hl=en
 comments: false
 include-after-body: _includes/statcounter.html
 ---
@@ -16,7 +27,7 @@ Previously, I was a Postdoctoral Fellow at the [Institute of Global Change Biolo
 
 I obtained my PhD with [Volker Rudolf](https://www.volkerrudolf.com/) at [Rice University](https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program) in Houston, TX. Before moving to Rice, I graduated from the University of Chicago, where I worked with [Cathy Pfister](https://pfisterlab.uchicago.edu/) and [Alison Anastasio](https://www.alisonanastasio.com/) on characterizing plant communities on urban contaminated soil.
 
-Click [here](/files/CV_HengxingZou.pdf) for my CV. Feel free to reach out through [email](mailto:hxzou.ecology@gmail.com) or [Bluesky](https://bsky.app/profile/hengxingzou.bsky.social).
+Click [here](/files/CV_HengxingZou_Aug21.pdf) for my CV. Feel free to reach out through [email](mailto:hxzou.ecology@gmail.com) or [Bluesky](https://bsky.app/profile/hengxingzou.bsky.social).
 
 Before coming to the United States for college, I spent my first 18 years in Beijing, China.
 :::

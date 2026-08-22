@@ -1,0 +1,31 @@
+---
+title: "Microbiome-driven environmental changes shape plant coexistence"
+subtitle: "Competitive outcomes between two duckweed species depend on the presence of microbiomes"
+author: 
+  - __Heng-Xing Zou__
+  - Xiyan Feng
+  - Xinyi Yan
+  - Jiaqi Tan
+date: "2026-05-04"
+description: "In review, _Proceedings B_"
+image: "project_duckweed.png"
+categories:
+  - Experiment
+  - Plant-soil feedback
+  - Plant
+  - First-author
+keywords:
+  - coexistence
+  - plant-microbe interactions
+  - plant-soil feedback
+  - duckweed
+about:
+  template: marquee
+format:
+  html:
+    toc: true
+---
+
+A central framework for understanding plant-microbe interactions is plant legacy effects, where a previous resident plant influences the performance of a subsequent plant via microbiomes. Strikingly, little is known about the relative contributions of microbiome conditioning and environmental modification to these legacy effects. With Xiyan Feng (Louisiana State University), [Xinyi Yan](https://xinyi-yan.github.io/) (University of Texas, Austin), and [Jiaqi Tan](https://jiaqitan.wixsite.com/mysite) (Louisiana State University), we use a series of experiments uniquely enabled by an aquatic plant system to separate the underlying mechanisms of legacy effects between two duckweed species. We found that plants coexist stably in the absence of microbiomes, while either conditioned microbiomes or a conditioned environment causes competitive exclusion by increasing the fitness differences. This result highlights the contribution of multiple biological mechanisms in determining plant-microbe interactions and their consequences on plant community dynamics and marks a first step in unpacking them using novel experimental approaches.
+
+This research was supported by the Student Research Award from the [American Society of Naturalist](https://www.amnat.org/awards.html#SRA), and a Small Research Grant from the [British Ecological Society](https://www.britishecologicalsociety.org/content/small-research-grants/).

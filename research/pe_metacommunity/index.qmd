@@ -1,0 +1,38 @@
+---
+title: "Priority effects shape dispersal-diversity relationships"
+subtitle: "How dispersal changes biodiversity metrics in seasonal metacommunities depend on priority effects"
+author: 
+  - __Heng-Xing Zou__
+  - Volker Rudolf
+date: "2023-04-15"
+description: "Published in _The American Naturalist_, 2023"
+image: "project_me.png"
+categories:
+  - Theory
+  - Priority effects
+  - Phenology
+  - First-author
+keywords:
+  - priority effects
+  - dispersal-diversity relationship
+  - metacommunity
+  - seasonal dynamics
+  - phenology
+about:
+  template: marquee
+  links:
+    - text: Paper
+      icon: file
+      url: "Zou2023_AmNat.pdf"
+    - text: Code
+      icon: github
+      url: "https://github.com/hengxingzou/Zou2023AmNat"
+    - text: Data
+      icon: file
+      url: "https://doi.org/10.5061/dryad.sbcc2frb4"
+format:
+  html:
+    toc: true
+---
+
+Priority effects are ubiquitous in nature and determine local community structure, but we know surprisingly little about how it influences biodiversity across different spatial scales. With [Volker Rudolf](https://www.volkerrudolf.com/) (Rice University), we use a seasonal metacommunity model to show that biodiversity patterns and the homogenizing effect of high dispersal depend on the specific mechanisms underlying priority effects. When priority effects are driven by a numeric advantage, diversity measurements are highly sensitive to initial conditions and high dispersal homogenizes communities. However, when local priority effects arise from phenological shifts that alter species interaction strength (trait-dependent priority effects), local, regional, and temporal diversity are higher and are surprisingly robust to variation in dispersal and initial conditions, given spatiotemporal variations in phenology. Our results highlight that accounting for the mechanisms underlying priority effects is fundamental to understanding the maintenance of regional biodiversity.
