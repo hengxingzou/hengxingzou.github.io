@@ -2,7 +2,8 @@
   {
     "listing": "/research.html",
     "items": [
-      "/research/llm_interactions/index.html"
+      "/research/llm_interactions/index.html",
+      "/research/predator_prey/index.html"
     ]
   }
 ]
